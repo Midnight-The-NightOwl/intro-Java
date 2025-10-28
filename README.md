@@ -1,2 +1,2 @@
 # intro Java
-This is just for my school projects, and almost all the file names are in Dutch.
+This is just for my school projects, and an intro towards the Java(Script) coding language.
