@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 size(600,200);
 int ans1=15 % 4 + 3;
 int ans2=10 + 5 * 8 -3;
@@ -18,3 +19,25 @@ text (ans3,90,50);
 text (ans4,110,50);
 text (ans5, 130, 50);
 text (ans6, 150, 50);
+=======
+size(600,200);
+int ans1=15 % 4 + 3;
+int ans2=10 + 5 * 8 -3;
+int ans3=((10 + 5) * 2) -3;
+int ans4=15 % (4 + 3);
+int ans5=((10 + 5) * 2) - 3;
+int ans6=10 + 5 * 2 - 3;
+println (ans1);
+println (ans2);
+println (ans3);
+println (ans4);
+println (ans5);
+println (ans6);
+fill(0,255,255);
+text (ans1,50,50);
+text (ans2,70,50);
+text (ans3,90,50);
+text (ans4,110,50);
+text (ans5, 130, 50);
+text (ans6, 150, 50);
+>>>>>>> e51c5dd (Organization)
